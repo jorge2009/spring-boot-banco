@@ -1,0 +1,9 @@
+construccion imagen
+docker build -t springbootdockerexample .
+
+
+arrancar imagen docker
+docker run -p 8080:8080 --env SPRING_PROFILES_ACTIVE=docker \
+my_docker_hub_username/my_image_name:my_image_version
+
+ docker run -p 8080:8080 spring-boot-docker

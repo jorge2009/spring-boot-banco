@@ -1,0 +1,22 @@
+Prueba tecnica comprimida
+https://desinseg.com/cftp/download.php?id=14&token=nOhUA6yevNCBAOAxpT5bqhFRmjbCCKcw
+
+Docker
+https://desinseg.com/cftp/download.php?id=15&token=cVNa0myd2y6JIrkU8Thc0OWQs5Jp5uZQ
+
+link Github
+https://github.com/jorge2009/MicroservicioJAVA.git
+
+
+Script BD
+ruta banco/script bd
+
+archivos json para ejecucion postman
+ruta banco/json postman
+
+
+
+
+
+
+
